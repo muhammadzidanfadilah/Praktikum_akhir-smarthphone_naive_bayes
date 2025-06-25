@@ -1,0 +1,1 @@
+# Praktikum_akhir-smarthphone_naive_bayes
